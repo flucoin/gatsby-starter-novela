@@ -1,6 +1,6 @@
 ---
-title: Bitcoin is not digital gold, it's digital art
-author: Flu
+title: Bitcoin is not digital gold - it is digital art
+author: Dennis Brotzky
 date: 2021-01-09
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
